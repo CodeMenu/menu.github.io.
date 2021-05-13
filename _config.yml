@@ -1,0 +1,17 @@
+title: Thato Menu # your name (or website title) here
+logo: "/images/thato.jpg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+     First description
+<br>I  am part time Sale associate at Adidas,joined the company last year Noverber 2020.
+  Been part of the retail industry has open a lot of opportunities and ideas how to sale a product or services.
+  A lot of ideas has crossed my mind to develop myself,so i decided to  learn and teach myself how to become a Software developer,
+  so all my innocative ideas can creat websites and application
+  <br>
+       Second description
+ <br>Currently im using Linkedin,codepen and Github to learn and practice how become a Software develop and creat application systems,
+  software and website for people and companies
+  <br>
+  <a href="https:https://www.linkedin.com/in/thatomenu3992731b4">View My LinkedIn Profile</a> 
+  
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
